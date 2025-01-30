@@ -18,3 +18,7 @@
 - Скрипт [Создание пользователей](Exc4/create_users.sh)
 - Скрипт [Создание ролей](Exc4/create_roles.sh)
 - Скрипт [Связывание роли и пользователей](Exc4/roles_binding.sh)
+
+## Задание 5
+
+Файл с сетевыми политиками [non-admin-api-allow](Exc5/non-admin-api-allow.yaml)
